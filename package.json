@@ -4,7 +4,8 @@
   "description": "",
   "main": "src/context.js",
   "files": [
-    "src/*"
+    "src/*",
+    "data/*"
   ],
   "devDependencies": {
     "expect": "26.x",
