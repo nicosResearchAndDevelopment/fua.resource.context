@@ -9,6 +9,5 @@
   "prov": "http://www.w3.org/ns/prov#",
   "sec": "https://w3id.org/security#",
   "time": "http://www.w3.org/2006/time#",
-  "vann": "http://purl.org/vocab/vann/",
   "voaf": "http://purl.org/vocommons/voaf#"
 }
