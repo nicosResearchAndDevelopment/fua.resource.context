@@ -1,7 +1,7 @@
 module.exports = _sortAndFreeze({
-    ...require('./_custom.json'),
-    ...require('./_common.json'),
-    ...require('./_basic.json')
+    ...require('../data/custom.json'),
+    ...require('../data/common.json'),
+    ...require('../data/core.json')
 });
 
 /**

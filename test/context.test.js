@@ -1,7 +1,7 @@
 const
-    expect = require('expect'),
+    expect           = require('expect'),
     {describe, test} = require('mocha'),
-    context = require('../src/context.js');
+    context          = require('../src/context.js');
 
 describe('fua.resource.context', function () {
 
