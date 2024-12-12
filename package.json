@@ -1,7 +1,7 @@
 {
   "name": "@fua/resource.context",
   "version": "1.0.3",
-  "description": "",
+  "description": "The context describes application wide namespaces and defines prefixes that will be used throughout FUA. Especially for linked data handling those prefixes will be relevant.",
   "main": "src/context.js",
   "files": [
     "src/*",
