@@ -1,5 +1,5 @@
 {
-  "name": "@nrd/fua.resource.context",
+  "name": "@fua/resource.context",
   "version": "1.0.3",
   "description": "",
   "main": "src/context.js",
@@ -21,8 +21,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@git02.int.nsc.ag:10022/research/fua/resource/context.git"
+    "url": "ssh://git@github.com:nicosResearchAndDevelopment/fua.resource.context.git"
   },
-  "author": "spetrac@nicos-ag.com",
-  "license": "UNLICENSED"
+  "author": "Simon Petrac <pfoerdie@gmail.com>",
+  "license": "MIT"
 }

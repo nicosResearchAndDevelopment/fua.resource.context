@@ -1,1 +1,1 @@
-# @nrd/fua.resource.context
+# @fua/resource.context
